@@ -65,12 +65,13 @@ div {font-style: italic;
 
 li {font-size: 11px;
     font-family: cursive;
-    font-weight: 400;
+    
     
     
 }
 
-
+/*added .mylist class to the h3 element and also adjusted the margins so it lined up better with my li element
+also underlined it for decoration*/
 .mylist {
   margin-left: 40px;
   margin-bottom: -10px;
